@@ -1,0 +1,35 @@
+.container {
+   border: 1px solid #e6e6e6;
+   padding: 9px;
+}
+
+.shadow {
+    box-shadow: 4px 4px 1px #e6e6e6;
+    width: 300px;
+}
+
+h3 {
+    margin-top: 3px;
+}
+
+img {
+    margin-bottom: 7px;
+}
+
+p, li {
+    font-size: 13px;
+}
+
+.fact {
+   font-style: italic;
+   margin-top: 7px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+span {
+    font-weight: bold;
+}
